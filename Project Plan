@@ -1,0 +1,29 @@
+PROJECT PLAN
+
+TEAM MEMBERS
+Raj Biswas 12BCE0567
+Deb Kunal 12BCE0018
+Namratha Prattipati 12BCE0050
+
+AIM
+To build a web application that analyses the real time stock market data. A basic statistical analysis and time-series analysis of the data will be done.
+
+OBJECTIVES
+•	Fetch real time stock market data of stocks.
+•	Maintain a database of historical stock data.
+•	Analyse the stock data based on time series analysis.
+•	Show some basic visualisations of the stock data. 
+
+FUNCTIONAL REQUIREMENTS
+•	Real time stock prices.
+•	Auto refresh of prices.
+•	Statistical summary of stock data.
+•	Historical price data database.
+
+NON FUNCTIONAL REQUIREMENTS
+•	Should work on all platforms like windows, MacOS, etc.
+•	HTML5 framework.
+•	Display visualisations.
+
+PROCESS MODEL
+The process model is fusion of  incremental and RAD model because modules and increments are to be used in a mixed fashion. The combination of them both allows to increase the speed as well as make changes on a need basis.
